@@ -60,6 +60,7 @@ A full-stack mobile application that allows **users** to book technicians from p
    cd Technician-Booking-App
 
 2.Install dependencies
+
   npm i
 
 3.Update backend URL
@@ -68,11 +69,15 @@ A full-stack mobile application that allows **users** to book technicians from p
   Use your computer's local IP (run ipconfig on Windows)
 
 4.Start the app
+
   npx expo start -c
 
 5.Backend
+
   cd backend
+  
   npm i
+  
   npm start
 
 6.How to Build APK / AAB
